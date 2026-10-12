@@ -1,0 +1,8 @@
+{
+  "name": "life-line-wavedeck",
+  "version": "1.0.9",
+  "description": "Local mono/stereo waveform player with transport controls",
+  "main": "main.cjs",
+  "private": true,
+  "productName": "LIFE LINE WaveDeck"
+}
